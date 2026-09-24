@@ -1,6 +1,6 @@
 # Hi, I'm Syakira
 
-Computer Science student majoring in Software Engineering based in Jakarta, currently focusing on **backend development**.
+Computer Science student in Jakarta, majoring in Software Engineering with a focus on **backend development.**
 
 I work mostly with JavaScript and TypeScript — building REST APIs, working with databases, and learning how systems are structured behind the scenes.
 
