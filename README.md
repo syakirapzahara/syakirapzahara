@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @syakirapzahara
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Syakira
+
+Computer Science student majoring in Software Engineering based in Jakarta, currently focusing on **backend development**.
+
+I work mostly with JavaScript and TypeScript — building REST APIs, working with databases, and learning how systems are structured behind the scenes.
+
+---
+
+### Currently working with
+- **Languages:** TypeScript, JavaScript, Dart, SQL
+- **Backend:** NestJS, Express.js, REST API, JWT Auth
+- **Database:** MySQL, PostgreSQL, Prisma ORM
+- **Tools:** Git, Docker, Postman, Linux CLI
+
+---
+
+### Currently learning
+- Software architecture & microservices
+- Backend security fundamentals
+- Writing cleaner, more maintainable code
+
+---
+
+### Reach me
+- LinkedIn: [linkedin.com/in/syakirapzahara](https://linkedin.com/in/syakirapzahara)
+- Email: syakirapzahara@gmail.com
 
 <!---
 syakirapzahara/syakirapzahara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
